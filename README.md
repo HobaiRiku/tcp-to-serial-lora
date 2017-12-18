@@ -7,7 +7,7 @@ NPM:
 [![node version][node-image]][node-url]    
 [![npm download][download-image]][download-url]    
 [![npm license][license-image]][download-url]   
-github:    
+GitHub:    
 [![GitHub release](https://img.shields.io/github/release/HobaiRiku/tcp-to-serial-lora.svg?style=flat-square)](https://github.com/HobaiRiku/tcp-to-serial-lora/releases)    
 [![Github All Releases](https://img.shields.io/github/downloads/HobaiRiku/tcp-to-serial-lora/total.svg?style=flat-square)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
 [![GitHub watchers](https://img.shields.io/github/watchers/HobaiRiku/tcp-to-serial-lora.svg?style=social&label=Watch)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
