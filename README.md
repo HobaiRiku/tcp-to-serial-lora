@@ -9,7 +9,7 @@ NPM:
 [![npm license][license-image]][download-url]   
 github:    
 [![GitHub release](https://img.shields.io/github/release/HobaiRiku/tcp-to-serial-lora.svg?style=flat-square)](https://github.com/HobaiRiku/tcp-to-serial-lora/releases)    
-[![Github All Releases](https://img.shields.io/github/downloads/HobaiRiku/tcp-to-serial-lora/total.svg)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
+[![Github All Releases](https://img.shields.io/github/downloads/HobaiRiku/tcp-to-serial-lora/total.svg?style=flat-square)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
 [![GitHub watchers](https://img.shields.io/github/watchers/HobaiRiku/tcp-to-serial-lora.svg?style=social&label=Watch)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
 
 
@@ -25,7 +25,7 @@ github:
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/tcp-to-serial-lora.svg?style=flat-square
 [download-url]: https://npmjs.org/package/tcp-to-serial-lora
-[license-image]: https://img.shields.io/npm/l/tcp-to-serial-lora.svg
+[license-image]: https://img.shields.io/npm/l/tcp-to-serial-lora.svg?style=flat-square
 
 ### #安装
 
