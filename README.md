@@ -60,6 +60,7 @@ Usage: tcp-to-serial-lora [options]
 
 ### #配置文件
 
+当运行目录下存在配置文件时，会自动加载配置，使用命令行参数将覆盖配置文件
 在根目录下创建`default_config.json` ：
 
 ```json
