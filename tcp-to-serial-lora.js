@@ -8,7 +8,7 @@ let SerialPort = require("serialport");
 var program = require('commander');
 
 program
-    .version('0.1.0')
+    .version('1.0.3')
     .option('-p, --port [type]', 'tcp服务端口', parseInt)
     .option('-s, --serialPort [type]', '串口端口名称')
     .option('-c, --config [type]', '配置文件')
