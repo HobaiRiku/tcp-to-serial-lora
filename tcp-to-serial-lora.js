@@ -9,9 +9,9 @@ var program = require('commander');
 
 program
     .version('1.0.3')
-    .option('-p, --port [type]', 'tcp服务端口', parseInt)
-    .option('-s, --serialPort [type]', '串口端口名称')
-    .option('-c, --config [type]', '配置文件')
+    .option('-p, --port [Number]', 'tcp服务端口', parseInt)
+    .option('-s, --serialPort [String]', '串口端口名称')
+    .option('-c, --config [File Path]', '配置文件')
     .description('tcp转串口向lora开发板发送网关上行指令的程序')
     .parse(process.argv);
 

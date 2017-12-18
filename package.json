@@ -1,6 +1,6 @@
 {
   "name": "tcp-to-serial-lora",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "接收tcp-socket数据，包装成lora开发板向服务器发送数据指令，通过串口向开发板发送指令，实现数据转发至lora服务器",
   "main": "tcp-to-serial-lora.js",
   "scripts": {

@@ -53,9 +53,9 @@ Usage: tcp-to-serial-lora [options]
   Options:
 
     -V, --version            查看当前版本
-    -p, --port [type]        tcp服务端口
-    -s, --serialPort [type]  串口端口名称
-    -c, --config [type]      配置文件
+    -p, --port [Number]        tcp服务端口
+    -s, --serialPort [String]  串口端口名称
+    -c, --config [File Path]      配置文件
     -h, --help               输出帮助信息
 ```
 
