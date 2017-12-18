@@ -1,12 +1,17 @@
 # tcp-to-serial-lora
 
-一个可以接收tcp-socket数据，并对数据进行包装，通过串口将数据发送至lora开发板，开发板通过lora网关，实现tcp数据转发至lora服务器的命令行工具，项目依赖node以及npm平台。
-
+一个可以接收tcp-socket数据，并对数据进行包装，通过串口将数据发送至lora开发板，开发板通过lora网关，实现tcp数据转发至lora服务器的命令行工具，项目依赖node以及npm平台。    
+NPM:    
 [![NPM version][npm-image]][npm-url]    
 [![David deps][david-image]][david-url]    
 [![node version][node-image]][node-url]    
 [![npm download][download-image]][download-url]    
-[![npm license][license-image]][download-url]    
+[![npm license][license-image]][download-url]   
+github:    
+[![GitHub release](https://img.shields.io/github/release/HobaiRiku/tcp-to-serial-lora.svg?style=flat-square)](https://github.com/HobaiRiku/tcp-to-serial-lora/releases)    
+[![Github All Releases](https://img.shields.io/github/downloads/HobaiRiku/tcp-to-serial-lora/total.svg)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
+[![GitHub watchers](https://img.shields.io/github/watchers/HobaiRiku/tcp-to-serial-lora.svg?style=social&label=Watch)](https://github.com/HobaiRiku/tcp-to-serial-lora)    
+
 
 [npm-image]: https://img.shields.io/npm/v/tcp-to-serial-lora.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/tcp-to-serial-lora
