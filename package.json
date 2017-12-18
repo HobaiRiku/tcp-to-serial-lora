@@ -1,6 +1,6 @@
 {
   "name": "tcp-to-serial-lora",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "接收tcp-socket数据，包装成lora开发板向服务器发送数据指令，通过串口向开发板发送指令，实现数据转发至lora服务器",
   "main": "tcp-to-serial-lora.js",
   "scripts": {
@@ -14,5 +14,12 @@
   },
   "bin": {
     "tcp-to-serial-lora": "tcp-to-serial-lora.js"
-  }
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/HobaiRiku/tcp-to-serial-lora.git"
+  },
+  "keywords":[
+    "tcp","lora","serial"
+  ]
 }
