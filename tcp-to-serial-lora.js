@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-
+var a =1;
 const fs = require('fs');
 let config = {};
 const net = require('net');
