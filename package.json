@@ -9,17 +9,19 @@
   "author": "Hobai Riku",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.12.2",
-    "serialport": "^6.0.4"
+    "commander": "^2.19.0",
+    "serialport": "^7.0.2"
   },
   "bin": {
     "tcp-to-serial-lora": "tcp-to-serial-lora.js"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/HobaiRiku/tcp-to-serial-lora.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HobaiRiku/tcp-to-serial-lora.git"
   },
-  "keywords":[
-    "tcp","lora","serial"
+  "keywords": [
+    "tcp",
+    "lora",
+    "serial"
   ]
 }
